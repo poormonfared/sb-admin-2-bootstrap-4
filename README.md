@@ -6,8 +6,6 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 ## Preview
 
-[![SB Admin 2 Preview](https://startbootstrap.com/assets/img/screenshots/themes/sb-admin-2.png)](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)
-
 [![SB Admin 2 rtl Preview](https://repository-images.githubusercontent.com/187363608/25a56980-799b-11e9-86d6-544fad76be74)](https://github.com/poormonfared/sb-admin-2-bootstrap-4/)
 
 
